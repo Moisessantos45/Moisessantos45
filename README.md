@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Moy45</a> 👋</h1>
 </div>
-<img src="https://i.ibb.co/nj3Rfd7/banner-github.jpg">
+<img src="https://i.ibb.co/nj3Rfd7/banner-github.jpg" height="200px" width=""100%>
 
 [![Facebook](https://www.facebook.com/people/WebDev-by-Moises/61556653184440)]
 [![linkedin](https://www.linkedin.com/in/moises-santos-hern%C3%A1ndez-31192b290)]
