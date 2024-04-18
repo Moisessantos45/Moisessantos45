@@ -3,7 +3,6 @@
 </div>
 <img src="https://i.ibb.co/nj3Rfd7/banner-github.jpg" height="400px" width=""100%>
 
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/Moisessantos45)
 [![@Moisessantos45](https://img.icons8.com/fluency/48/000000/instagram-new.png "@webdevbymoises")](https://www.instagram.com/webdevbymoises/) 
 [![@Moisessantos45](https://img.icons8.com/fluency/48/000000/facebook.png "@WebDev-by-Moises")](https://www.facebook.com/people/WebDev-by-Moises/61556653184440) 
 [![@Moisessantos45](https://img.icons8.com/fluency/48/000000/linkedin.png "@moises-santos-hernández")](https://www.linkedin.com/in/moises-santos-hern%C3%A1ndez-31192b290/) 
@@ -32,7 +31,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=Moisessantos45&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moisessantos45&layout=compact&theme=gotham&langs_count=8"/>
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
