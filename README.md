@@ -1,7 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Moy45</a> 👋</h1>
 </div>
+<figure align="center">
 <img src="https://i.ibb.co/nj3Rfd7/banner-github.jpg" height="400px" width=""100%>
+</figure>
 
 [![@Moisessantos45](https://img.icons8.com/fluency/48/000000/instagram-new.png "@webdevbymoises")](https://www.instagram.com/webdevbymoises/) 
 [![@Moisessantos45](https://img.icons8.com/fluency/48/000000/facebook.png "@WebDev-by-Moises")](https://www.facebook.com/people/WebDev-by-Moises/61556653184440) 
