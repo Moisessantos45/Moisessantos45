@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Moy45</a> 👋</h1>
 </div>
 <figure align="center" style="display: flex; justify-content: center; align-items: center;">
-<img src="https://i.ibb.co/nj3Rfd7/banner-github.jpg" height="400px" width="90%" style="align-self:center">
+<img src="https://res.cloudinary.com/dtkskpitc/image/upload/v1723446798/bg_perfil/jxcfkbqngbo1hgcxsxxo.jpg" height="400px" width="90%" style="align-self:center">
 </figure>
 
 [![@Moisessantos45](https://img.icons8.com/fluency/48/000000/instagram-new.png "@webdevbymoises")](https://www.instagram.com/webdevbymoises/) 
