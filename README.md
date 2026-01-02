@@ -60,8 +60,8 @@ Soy un apasionado **desarrollador full stack** con experiencia en desarrollo web
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moisessantos45&theme=gotham&count_private=true&show_icons=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moisessantos45&layout=compact&langs_count=15&theme=algolia" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Moisessantos45&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moisessantos45&layout=compact&langs_count=15&theme=algolia"/>
 </p>
 
 ---
